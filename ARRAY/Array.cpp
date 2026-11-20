@@ -14,9 +14,6 @@ int main()
 
 
 
-
-
-
     // input and output in an array
 
     // int marks[5] = {34, 56, 78, 16, 97};
