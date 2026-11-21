@@ -10,6 +10,7 @@ int linear(int *arr, int n, int key)
         {
             cout << "Element if found at index : " << i;
         }
+        
     }
 
     return -1;
