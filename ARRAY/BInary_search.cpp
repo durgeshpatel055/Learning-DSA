@@ -17,6 +17,7 @@ int binarySearch(int *arr, int n, int key){
         }else{
             end = mid -1;
         }
+        
     }
     return -1;
  
