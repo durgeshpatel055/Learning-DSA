@@ -15,7 +15,6 @@ void maxSubArray_sum(int *arr, int n){
   }
   cout<<"maximum subarray sum : "<<maxSum;
 
-
 }
 
 int main(){
