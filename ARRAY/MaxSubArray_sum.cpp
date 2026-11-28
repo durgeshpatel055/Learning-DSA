@@ -24,6 +24,7 @@ void maxSubArray_Sum(int *arr, int n)
     cout<<"maximum sum is : "<<maxsum;
 }
 
+
 int main()
 {
     int arr[] = {2, -3, 6, -5, 4, 2};
